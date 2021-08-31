@@ -1,0 +1,3 @@
+[submodule "src/assets/js/vendor/player"]
+	path = src/assets/js/vendor/player
+	url = https://github.com/StraikerB12/player.git
